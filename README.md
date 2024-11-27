@@ -205,12 +205,12 @@ temple.html
 ```
 ## OUTPUT
 
-![alt text](a-1.png)
-![alt text](d-1.png) 
-![alt text](e-1.png)
-![alt text](f-1.png)
-![alt text](b-1.png)
-![alt text](c-1.png)
+![alt text](a.png)
+![alt text](d.png) 
+![alt text](e.png)
+![alt text](f.png)
+![alt text](b.png)
+![alt text](c.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
